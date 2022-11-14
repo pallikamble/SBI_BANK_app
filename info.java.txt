@@ -1,0 +1,4 @@
+public class laptop{
+Public void l1(){
+}
+}
