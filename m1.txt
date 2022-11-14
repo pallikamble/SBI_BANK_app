@@ -1,0 +1,5 @@
+public class Maharastra{
+
+public void m1(){
+}
+}
